@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Mark Androshick",
+        "number": 86,
+        "position": "RD",
+        "type": "defense"
+      },
+      {
+        "name": "Craig Norgren",
+        "number": 69,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Curtis Shultz",
+        "number": 17,
+        "position": "C",
+        "type": "forward"
+      },
+      {
+        "name": "Jacob Woolsey",
+        "number": 42,
+        "position": "RW",
+        "type": "forward"
+      },
+      {
+        "name": "James Degolier",
+        "number": 29,
+        "position": "LW",
+        "type": "forward"
+      },
+      {
+        "name": "Jeremy Morgan",
+        "number": 31,
+        "position": "RD",
+        "type": "defense"
+      },
+      {
+        "name": "Lee Horton",
+        "number": 36,
+        "position": "C",
+        "type": "forward"
+      },
+      {
+        "name": "Matt Dell",
+        "number": 13,
+        "position": "LD",
+        "type": "defense"
+      },
+      {
+        "name": "Matt Vallejos",
+        "number": 27,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Nick Tiritilli",
+        "number": 77,
+        "position": "LD",
+        "type": "defense"
+      },
+      {
+        "name": "Shelby Smith",
+        "number": 18,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Travis Oullette",
+        "number": 24,
+        "position": "LW",
+        "type": "forward"
+      },
+      {
+        "name": "Tyler Rickenbach",
+        "number": 10,
+        "position": "RW",
+        "type": "forward"
+      },
+      {
+        "name": "Chris Estelle",
+        "number": 32,
+        "position": "G",
+        "type": "goalie"
+      },
+      {
+        "name": "Tig Tobbe",
+        "number": 5,
+        "position": "G",
+        "type": "goalie"
+      }
+]

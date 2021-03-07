@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Mark Androshick",
+        "number": 86,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Bret Willis",
+        "number": 88,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Michael Wolf",
+        "number": 28,
+        "position": "C",
+        "type": "forward"
+      },
+      {
+        "name": "Alexi Rentzis",
+        "number": 50,
+        "position": "C",
+        "type": "forward"
+      },
+      {
+        "name": "Alan Lowery",
+        "number": 21,
+        "position": "RD",
+        "type": "defense"
+      },
+      {
+        "name": "Alex Navidog",
+        "number": 23,
+        "position": "LD",
+        "type": "defense"
+      },
+      {
+        "name": "Brent Kuckuck",
+        "number": 93,
+        "position": "RD",
+        "type": "defense"
+      },
+      {
+        "name": "Chris Klock",
+        "number": 5,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Joe Thompson",
+        "number": 8,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Lyndee Johnson",
+        "number": 13,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Megan Johnson",
+        "number": 55,
+        "position": "LW/RW",
+        "type": "forward"
+      },
+      {
+        "name": "Mike Harvey",
+        "number": 11,
+        "position": "C",
+        "type": "forward"
+      },
+      {
+        "name": "Steve Garcia",
+        "number": 29,
+        "position": "LD",
+        "type": "defense"
+      },
+      {
+        "name": "Blaine Touchette",
+        "number": 81,
+        "position": "G",
+        "type": "goalie"
+      },
+      {
+        "name": "Chris Corker",
+        "number": 33,
+        "position": "G",
+        "type": "goalie"
+      }
+]
