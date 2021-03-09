@@ -1,92 +1,163 @@
 [
     {
+        "id": 0,
         "name": "Mark Androshick",
         "number": 86,
         "position": "RD",
-        "type": "defense"
+        "type": "defense",
+        "chemistry":[13],
+        "lastG":0,
+        "totalG":0,
+        "playing": false
       },
       {
+        "id": 1,
         "name": "Craig Norgren",
         "number": 69,
-        "position": "LW/RW",
-        "type": "forward"
+        "position": "C/LW/RW",
+        "type": "forward",
+        "chemistry":[18],
+        "lastG":1,
+        "totalG":4,
+        "playing": false
       },
       {
+        "id": 2,
         "name": "Curtis Shultz",
         "number": 17,
         "position": "C",
-        "type": "forward"
+        "type": "forward",
+        "chemistry":[],
+        "lastG":1,
+        "totalG":20,
+        "playing": false
       },
       {
+        "id": 3,
         "name": "Jacob Woolsey",
         "number": 42,
-        "position": "RW",
-        "type": "forward"
+        "position": "C/RW",
+        "type": "forward",
+        "chemistry":[36],
+        "lastG":0,
+        "totalG":4,
+        "playing": false
       },
       {
+        "id": 4,
         "name": "James Degolier",
         "number": 29,
-        "position": "LW",
-        "type": "forward"
+        "position": "C/LW",
+        "type": "forward",
+        "chemistry":[10,24],
+        "lastG":0,
+        "totalG":10,
+        "playing": false
       },
       {
+        "id": 5,
         "name": "Jeremy Morgan",
         "number": 31,
         "position": "RD",
-        "type": "defense"
+        "type": "defense",
+        "chemistry":[77],
+        "lastG":0,
+        "totalG":2,
+        "playing": false
       },
       {
+        "id": 6,
         "name": "Lee Horton",
         "number": 36,
-        "position": "C",
-        "type": "forward"
+        "position": "C/LW",
+        "type": "forward",
+        "chemistry":[42],
+        "lastG":0,
+        "totalG":13,
+        "playing": false
       },
       {
+        "id": 7,
         "name": "Matt Dell",
         "number": 13,
         "position": "LD",
-        "type": "defense"
+        "type": "defense",
+        "chemistry":[86],
+        "lastG":0,
+        "totalG":2,
+        "playing": false
       },
       {
+        "id": 8,
         "name": "Matt Vallejos",
         "number": 27,
         "position": "LW/RW",
-        "type": "forward"
+        "type": "forward",
+        "chemistry":[],
+        "lastG":0,
+        "totalG":5,
+        "playing": false
       },
       {
+        "id": 9,
         "name": "Nick Tiritilli",
         "number": 77,
         "position": "LD",
-        "type": "defense"
+        "type": "defense",
+        "chemistry":[31],
+        "lastG":0,
+        "totalG":2,
+        "playing": false
       },
       {
+        "id": 10,
         "name": "Shelby Smith",
         "number": 18,
-        "position": "LW/RW",
-        "type": "forward"
+        "position": "RW",
+        "type": "forward",
+        "chemistry":[69],
+        "lastG":0,
+        "totalG":2,
+        "playing": false
       },
       {
+        "id": 11,
         "name": "Travis Oullette",
         "number": 24,
-        "position": "LW",
-        "type": "forward"
+        "position": "LW/RW",
+        "type": "forward",
+        "chemistry":[10,29],
+        "lastG":3,
+        "totalG":11,
+        "playing": false
       },
       {
+        "id": 12,
         "name": "Tyler Rickenbach",
         "number": 10,
-        "position": "RW",
-        "type": "forward"
+        "position": "LW/RW",
+        "type": "forward",
+        "chemistry":[24,29],
+        "lastG":0,
+        "totalG":6,
+        "playing": false
       },
       {
+        "id": 13,
         "name": "Chris Estelle",
         "number": 32,
         "position": "G",
-        "type": "goalie"
+        "type": "goalie",
+        "chemistry":[],
+        "playing": false
       },
       {
+        "id": 14,
         "name": "Tig Tobbe",
         "number": 5,
         "position": "G",
-        "type": "goalie"
+        "type": "goalie",
+        "chemistry":[],
+        "playing": false
       }
 ]

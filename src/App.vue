@@ -1,6 +1,6 @@
 <template>
   <!-- <Rink /> -->
-  <Lines team="Relics" />
+  <Lines />
 </template>
 
 <script>

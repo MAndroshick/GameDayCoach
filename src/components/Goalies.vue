@@ -58,7 +58,7 @@ export default {
       }
       return this.roster
         .filter((player) => {
-          return player.type.toLowerCase().includes("goalie");
+          return player.type.toLowerCase().includes("goalie") && player.playing;
         })
         .sort(compare);
     },

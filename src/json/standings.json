@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "team": "Relics",
+        "rank": 1
+    },
+    {
+        "id": 1,
+        "team": "Manta Rays",
+        "rank": 2
+    },
+    {
+        "id": 2,
+        "team": "Gila Monsters",
+        "rank": 3
+    },
+    {
+        "id": 3,
+        "team": "Trash Pandas",
+        "rank": 4
+    },
+    {
+        "id": 4,
+        "team": "Blue Devils",
+        "rank": 5
+    },
+    {
+        "id": 5,
+        "team": "The Exotics",
+        "rank": 6
+    },
+    {
+        "id": 6,
+        "team": "Desert Eagles",
+        "rank": 7
+    },
+    {
+        "id": 7,
+        "team": "Strange Brew'd",
+        "rank": 8
+    }
+]
